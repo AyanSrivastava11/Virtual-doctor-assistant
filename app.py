@@ -179,11 +179,11 @@ def about():
     st.title("About Us 👥")
     st.write("We are a team of passionate developers working on innovative healthcare solutions.")
     team_members = [
-    {"name": "Ayan Srivastava", "role": "Data Scientist", "image": "https://media.licdn.com/dms/image/v2/D5635AQE5pi8FGnqPvw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1712780768563?e=1736964000&v=beta&t=D_sC5MFkvmwXOI1N8ItByLm4wN3ZNns7PTRWdH4wLkI", "linkedin": "https://www.linkedin.com/in/ayan-srivastava-017a89259/", "github": "https://github.com/AyanSrivastava11"},
+    {"name": "Ayan Srivastava", "role": "Data Scientist", "image": "https://media.licdn.com/dms/image/v2/D4D03AQG8LaH9lnxJ8Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689078172220?e=1742428800&v=beta&t=OBgBT8goDJYkk4mksWOj12bbyB2I6GhDrzQg7B52ZJI", "linkedin": "https://www.linkedin.com/in/ayan-srivastava-017a89259/", "github": "https://github.com/AyanSrivastava11"},
 
-    {"name": "Aditi Singh", "role": "Data Analyst", "image": "https://media.licdn.com/dms/image/v2/D4D35AQFRIk0aiGC0oQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1736864456725?e=1737471600&v=beta&t=jdFWviTcGBMbYRp1J6qAMgFELbb6-mL5nd6GlWVekbM","linkedin":"https://www.linkedin.com/in/aditi-singh-266456253/", "github": "https://github.com/AyanSrivastava11"},
+    {"name": "Aditi Singh", "role": "Data Analyst", "image": "https://media.licdn.com/dms/image/v2/D4D03AQEz1Pq8446DEQ/profile-displayphoto-shrink_800_800/B4DZRlMFVeHIAc-/0/1736864454743?e=1742428800&v=beta&t=FXPSyIoxLXC0yBd3yG8XZC65cqG7xBfPJi_Oxcn8esc","linkedin":"https://www.linkedin.com/in/aditi-singh-266456253/", "github": "https://github.com/AyanSrivastava11"},
 
-    {"name": "Aditi Gupta", "role": "DevOps Engineer", "image": "https://media.licdn.com/dms/image/v2/D5603AQGnk1vrfCWxwA/profile-displayphoto-shrink_800_800/B56ZRlLwIRHoAg-/0/1736864369350?e=1742428800&v=beta&t=nYcibn1X6pmI11F_xGaAe7Jkyx-LOdLFFFGEN3YZtWk", "linkedin": "https://www.linkedin.com/in/guptaaditi18/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "github": "https://github.com/Aditi-code123"},
+    {"name": "Aditi Gupta", "role": "Front End Developer", "image": "https://media.licdn.com/dms/image/v2/D5603AQGnk1vrfCWxwA/profile-displayphoto-shrink_800_800/B56ZRlLwIRHoAg-/0/1736864369350?e=1742428800&v=beta&t=nYcibn1X6pmI11F_xGaAe7Jkyx-LOdLFFFGEN3YZtWk", "linkedin": "https://www.linkedin.com/in/guptaaditi18/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "github": "https://github.com/Aditi-code123"},
 ]    
 
     cols = st.columns(3)
