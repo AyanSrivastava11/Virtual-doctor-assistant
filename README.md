@@ -60,9 +60,9 @@ To use the Groq API for AI responses:
    ```
 
 ## Screenshots 📸
-![Home Page](pic1.png)
-![Doctor Chat](pic2.png)
-![Nutrition Planner](pic3.png)
+![Home Page](screenshot/pic1.png)
+![Doctor Chat](screenshot/pic2.png)
+![Nutrition Planner](screenshot/pic3.png)
 
 ## Contributing 🤝
 We welcome contributions! To contribute:
